@@ -8,4 +8,8 @@ This project is a playground for Node, Express and Redis.
 npm install
 ```
 
+```sh
+node server.js
+```
+
 Tested with postman.
